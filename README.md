@@ -5,6 +5,7 @@ Good Morning/Afternoon, My name is Ruhan. I am a dedicated and highly motivated 
 💻 Technical Interests & Current Development
 
 I am strongly committed to expanding my technical capabilities across multiple areas of computing:
+
 -> Python – my strongest language, which I have studied extensively and use confidently across projects
 
 -> C++ – currently learning to deepen my understanding of memory management, efficiency, and algorithmic thinking
