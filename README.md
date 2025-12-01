@@ -1,5 +1,4 @@
-# Hey 👋
-📌 Aspiring Software Engineer | Machine Learning Enthusiast | Year 11 Student
+# 📌 Aspiring Software Engineer | Machine Learning Enthusiast | Year 11 Student
 
 Good Morning/Afternoon, My name is Ruhan. I am a dedicated and highly motivated student with a clear vision for my future in the field of software engineering. I am currently in Year 11, actively developing my technical skills and academic foundation with the long-term objective of contributing to major technology companies such as Google or Apple.
 
